@@ -1,0 +1,2 @@
+# sofia
+learn python 
